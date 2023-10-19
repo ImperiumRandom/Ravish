@@ -1,20 +1,8 @@
 # Ravish
 
-description:
+This will be a text-based dungeon crawler made in C++.
+It will contain horror elements through the enemy types, descriptions, and lore.
+Gameplay will be done through a grid to describe which room the player is currently in, I will use a linked list to direct the player's location
+to the next room and will use classes for weapons, enemies, and playable characters. derived classes/children for each type of character, enemy, or weapon.
+I plan 1 level initially with ten floors.
 
-A dungeon crawler with multiple floors, enemies, weapons, stats, items, bosses. This will
-be a horror game.
-
-The game will have a unique backstory that is unveiled through items that can be found, this will
-also give players a weakness for enemies.
-
-character traits will be picked at the start, and can be upgraded throughout.
-
-weapons types:
-
-pickups:
-
-The game will have a small amount of RNG elements upping your chance of winning when encountering enemies, 
-depending on weakness, stats, and weapon to enemy type.
-
-Lore:
