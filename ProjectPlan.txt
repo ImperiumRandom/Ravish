@@ -16,7 +16,3 @@ game will have small amount of rng element upping your chance of winning when en
 depending on weakness, stats, and weapon to enemy type.
 
 Lore:
-
-
-
-	
