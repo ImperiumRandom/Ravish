@@ -1,0 +1,22 @@
+Lore beside each object of class
+
+
+
+floors inside of a stack of objects - randomly generate rooms direction
+
+
+
+
+Enemies Class:
+
+
+
+Playable Characters Class:
+
+
+
+Weapon Class:
+
+
+
+Pickups Class:

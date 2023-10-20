@@ -1,5 +1,5 @@
 #include "iostream"
-#include "functionality.h"
+#include "helpers.h"
 #include "string"
 
 
@@ -24,14 +24,17 @@ int main() {
 
     int userSelection;
 
+    setFontSize(10, 30);
 
-    // player selection
+    // main menu
 
-    while (true) {
+    while (true) { 
 
-        print("Hello, please enter a num 1-3\n");
+        print("|| Ravish ||\n");
 
-        print("userInput: ");
+        print("|| You feel a familier presence lirking, seething, begging for freedom. ||\n\n");
+
+        print("Choice: ");
 
         if (userNumInput(userSelection) && 0 < userSelection <= 3) {
 
